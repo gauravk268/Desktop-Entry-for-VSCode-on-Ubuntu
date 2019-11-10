@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Visual Studio Code
+Icon=/home/your_username/Downloads/code-stable-1571154019/VSCode-linux-x64/resources/app/resources/linux/code.png
+Exec=/home/your_username/Downloads/code-stable-1571154019/VSCode-linux-x64/code
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=true
+StartupWMClass=visual-studio-code
